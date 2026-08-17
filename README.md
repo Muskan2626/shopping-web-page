@@ -13,5 +13,3 @@ A responsive e-commerce landing page built with HTML, CSS, bootstrap and JavaScr
 - Bootstrap 
 - JavaScript
 
-## How to Run Locally
-Clone this repository:
